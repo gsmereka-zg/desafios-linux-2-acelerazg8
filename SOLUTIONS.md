@@ -68,3 +68,9 @@ echo "" > empty.txt
 cat hello.txt > goodbye.txt
 ```
 
+
+## Problema 14-b
+```bash
+mv goodbye.txt hello_copy.txt
+```
+
