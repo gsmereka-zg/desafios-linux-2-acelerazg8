@@ -38,3 +38,9 @@ echo "Hello World"
 echo "Hello World" > hello.txt
 ```
 
+
+## Problema 9-b
+```bash
+touch empty.txt
+```
+
