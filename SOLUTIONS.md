@@ -50,3 +50,9 @@ touch empty.txt
 rm empty.txt
 ```
 
+
+## Problema 11-i
+```bash
+echo "" > empty.txt
+```
+
