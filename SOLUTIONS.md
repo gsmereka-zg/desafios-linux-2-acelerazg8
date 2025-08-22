@@ -102,3 +102,8 @@ ls -l
 chmod +w restricted.txt && echo 'some text' >> restricted.txt
 ```
 
+## Problema 20-b
+```bash
+./hello_executable
+```
+
