@@ -107,3 +107,9 @@ chmod +w restricted.txt && echo 'some text' >> restricted.txt
 ./hello_executable
 ```
 
+
+## Problema 21-b
+```bash
+chmod +x ./hello_executable && ./hello_executable
+```
+
