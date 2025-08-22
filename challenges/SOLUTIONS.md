@@ -10,3 +10,15 @@ pwd
 ls -l
 ```
 
+
+## Problema 19-b
+```bash
+chmod +w restricted.txt && echo some
+```
+
+
+## Problema 19-b
+```bash
+chmod +w restricted.txt && echo 'some text' >> restricted.txt
+```
+
