@@ -113,3 +113,9 @@ chmod +w restricted.txt && echo 'some text' >> restricted.txt
 chmod +x ./hello_executable && ./hello_executable
 ```
 
+
+## Problema 22-b
+```bash
+gcc compile_me.c -o compilei && ./compilei
+```
+
