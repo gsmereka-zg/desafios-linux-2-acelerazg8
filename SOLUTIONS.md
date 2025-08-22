@@ -13,3 +13,10 @@ ls . (ls --help for more options)
 mkdir foo
 ```
 
+
+## Problema 5-i
+```bash
+mkdir -p foo/bar/1/2/3
+
+```
+
