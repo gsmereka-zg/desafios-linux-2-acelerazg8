@@ -4,3 +4,9 @@
 pwd
 ```
 
+
+## Problema 18-b
+```bash
+ls -l
+```
+
