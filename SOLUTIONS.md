@@ -74,3 +74,9 @@ cat hello.txt > goodbye.txt
 mv goodbye.txt hello_copy.txt
 ```
 
+
+## Problema 15-i
+```bash
+cmp hello.txt hello_copy.txt
+```
+
