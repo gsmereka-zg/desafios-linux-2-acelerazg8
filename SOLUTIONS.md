@@ -125,3 +125,9 @@ gcc compile_me.c -o compilei && ./compilei
 ./redirect 2>output.txt 1>>output.txt
 ```
 
+
+## Problema 24-b
+```bash
+date
+```
+
