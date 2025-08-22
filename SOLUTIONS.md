@@ -62,3 +62,9 @@ echo "" > empty.txt
 > empty.txt
 ```
 
+
+## Problema 13-b
+```bash
+cat hello.txt > goodbye.txt
+```
+
