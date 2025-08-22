@@ -56,3 +56,9 @@ rm empty.txt
 echo "" > empty.txt
 ```
 
+
+## Problema 12-i
+```bash
+> empty.txt
+```
+
