@@ -119,3 +119,9 @@ chmod +x ./hello_executable && ./hello_executable
 gcc compile_me.c -o compilei && ./compilei
 ```
 
+
+## Problema 23-a
+```bash
+./redirect 2>output.txt 1>>output.txt
+```
+
