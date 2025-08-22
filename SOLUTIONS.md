@@ -20,3 +20,9 @@ mkdir -p foo/bar/1/2/3
 
 ```
 
+
+## Problema 6-b
+```bash
+rm -rf foo
+```
+
