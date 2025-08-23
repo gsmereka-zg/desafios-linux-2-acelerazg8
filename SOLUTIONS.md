@@ -240,3 +240,9 @@ time
 cat people.csv | cut -d',' -f4 | grep -c 'Josiah'
 ```
 
+
+## Problema 43-i
+```bash
+find . -type f | wc -l
+```
+
