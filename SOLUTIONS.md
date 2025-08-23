@@ -276,3 +276,9 @@ cat people.csv | tr ',' '|' > people_pipe.csv
 fdupes bunch_of_files/
 ```
 
+
+## Problema 49-a
+```bash
+install -D /dev/null f/supercalifragilisticexpialidocious.txt && rm f/*
+```
+
