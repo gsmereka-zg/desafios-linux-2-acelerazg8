@@ -282,3 +282,9 @@ fdupes bunch_of_files/
 install -D /dev/null f/supercalifragilisticexpialidocious.txt && rm f/*
 ```
 
+
+## Problema 50-a
+```bash
+touch {a..c}-{1..3}.txt
+```
+
