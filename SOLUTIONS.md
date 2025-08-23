@@ -270,3 +270,9 @@ grep -rl 'You found the needle in the haystack!' bunch_of_files/ | xargs sed -i 
 cat people.csv | tr ',' '|' > people_pipe.csv
 ```
 
+
+## Problema 48-A
+```bash
+fdupes bunch_of_files/
+```
+
