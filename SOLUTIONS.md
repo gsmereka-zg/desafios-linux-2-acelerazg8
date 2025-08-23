@@ -246,3 +246,9 @@ cat people.csv | cut -d',' -f4 | grep -c 'Josiah'
 find . -type f | wc -l
 ```
 
+
+## Problema 44-i
+```bash
+find . -type d | wc -l
+```
+
