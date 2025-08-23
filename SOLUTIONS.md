@@ -252,3 +252,9 @@ find . -type f | wc -l
 find . -type d | wc -l
 ```
 
+
+## Problema 45-i
+```bash
+find . -type f -name "*deleteme*" -delete
+```
+
