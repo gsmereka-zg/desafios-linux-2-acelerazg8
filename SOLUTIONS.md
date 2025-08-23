@@ -210,3 +210,9 @@ tac ../CHALLENGE_README.txt
 cut -d',' -f2 people.csv
 ```
 
+
+## Problema 38-a
+```bash
+cut -d',' -f2 people.csv              | sort | uniq | wc -l
+```
+
