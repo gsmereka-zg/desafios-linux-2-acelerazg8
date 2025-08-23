@@ -264,3 +264,9 @@ find . -type f -name "*deleteme*" -delete
 grep -rl 'You found the needle in the haystack!' bunch_of_files/ | xargs sed -i 's/You found the needle in the haystack!/The needle has been removed./'
 ```
 
+
+## Problema 47-a
+```bash
+cat people.csv | tr ',' '|' > people_pipe.csv
+```
+
