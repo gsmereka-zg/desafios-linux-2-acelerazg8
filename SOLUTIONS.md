@@ -222,3 +222,9 @@ cut -d',' -f2 people.csv              | sort | uniq | wc -l
 cut -d',' -f2 people.csv | tail -n +2 | sort | uniq | wc -l
 ```
 
+
+## Problema 40-a
+```bash
+cut -d',' -f2 people.csv | sed 1d | sort | uniq | wc -l
+```
+
