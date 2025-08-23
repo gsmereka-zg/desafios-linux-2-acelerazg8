@@ -204,3 +204,9 @@ wc -l ../CHALLENGE_README.txt
 tac ../CHALLENGE_README.txt
 ```
 
+
+## Problema 37-i
+```bash
+cut -d',' -f2 people.csv
+```
+
