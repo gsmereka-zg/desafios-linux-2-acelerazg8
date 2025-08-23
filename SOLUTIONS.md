@@ -131,3 +131,9 @@ gcc compile_me.c -o compilei && ./compilei
 date
 ```
 
+
+## Problema 25-b
+```bash
+ps aux
+```
+
