@@ -258,3 +258,9 @@ find . -type d | wc -l
 find . -type f -name "*deleteme*" -delete
 ```
 
+
+## Problema 46-i
+```bash
+grep -rl 'You found the needle in the haystack!' bunch_of_files/ | xargs sed -i 's/You found the needle in the haystack!/The needle has been removed./'
+```
+
