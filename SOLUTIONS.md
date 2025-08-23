@@ -167,3 +167,9 @@ head -n 25 people.csv
 tail -n 25 people.csv
 ```
 
+
+## Problema 31-i
+```bash
+diff greeting1.txt greeting2.txt
+```
+
