@@ -350,9 +350,9 @@ Execute this challenge in exactly 2 steps:
 1) (B) Create an empty file named "supercalifragilisticexpialidocious.txt".
 2) (A) Remove "supercalifragilisticexpialidocious.txt". Your command may     only use a maximum 5 total characters (no wildcards or globs).
 ```bash
-install -D /dev/null f/supercalifragilisticexpialidocious.txt && rm f/*
+install -D /dev/null f/supercalifragilisticexpialidocious.txt && rm -r f
 ```
-> Nota: usa menos 5 caracteres no comando para remover o arquivo.
+> Nota: usa menos 5 caracteres (não contando espaços) no comando para remover o arquivo.
 
 
 ## Problema 50-a
