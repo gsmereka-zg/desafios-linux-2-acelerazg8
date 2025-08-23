@@ -198,3 +198,9 @@ dd if=/dev/urandom of=random2MB.bin bs=1M count=2
 wc -l ../CHALLENGE_README.txt
 ```
 
+
+## Problema 36-b
+```bash
+tac ../CHALLENGE_README.txt
+```
+
