@@ -149,3 +149,9 @@ nproc
 uname -r
 ```
 
+
+## Problema 28-b
+```bash
+grep -rl "You found the needle in the haystack!" bunch_of_files/
+```
+
