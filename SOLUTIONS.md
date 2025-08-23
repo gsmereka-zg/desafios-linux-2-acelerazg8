@@ -216,3 +216,9 @@ cut -d',' -f2 people.csv
 cut -d',' -f2 people.csv              | sort | uniq | wc -l
 ```
 
+
+## Problema 39-a
+```bash
+cut -d',' -f2 people.csv | tail -n +2 | sort | uniq | wc -l
+```
+
