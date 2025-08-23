@@ -179,3 +179,10 @@ diff greeting1.txt greeting2.txt
 echo "Hello" && sleep 5 && echo "world!"
 ```
 
+
+## Problema 33-i
+```bash
+yes 0 | tr -d '
+' | head -c 1M > zeros.txt
+```
+
