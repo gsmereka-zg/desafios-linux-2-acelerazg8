@@ -137,3 +137,9 @@ date
 ps aux
 ```
 
+
+## Problema 26-b
+```bash
+nproc
+```
+
