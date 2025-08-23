@@ -186,3 +186,9 @@ yes 0 | tr -d '
 ' | head -c 1M > zeros.txt
 ```
 
+
+## Problema 34-i
+```bash
+dd if=/dev/urandom of=random2MB.bin bs=1M count=2
+```
+
