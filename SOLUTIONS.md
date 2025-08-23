@@ -155,3 +155,9 @@ uname -r
 grep -rl "You found the needle in the haystack!" bunch_of_files/
 ```
 
+
+## Problema 29-b
+```bash
+head -n 25 people.csv
+```
+
