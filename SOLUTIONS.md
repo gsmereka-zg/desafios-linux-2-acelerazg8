@@ -234,3 +234,9 @@ cut -d',' -f2 people.csv | sed 1d | sort | uniq | wc -l
 time
 ```
 
+
+## Problema 42-a
+```bash
+cat people.csv | cut -d',' -f4 | grep -c 'Josiah'
+```
+
