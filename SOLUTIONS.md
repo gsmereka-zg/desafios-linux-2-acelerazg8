@@ -143,3 +143,9 @@ ps aux
 nproc
 ```
 
+
+## Problema 27-b
+```bash
+uname -r
+```
+
