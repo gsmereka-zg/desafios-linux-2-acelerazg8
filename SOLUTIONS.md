@@ -192,3 +192,9 @@ yes 0 | tr -d '
 dd if=/dev/urandom of=random2MB.bin bs=1M count=2
 ```
 
+
+## Problema 35-i
+```bash
+wc -l ../CHALLENGE_README.txt
+```
+
